@@ -1,6 +1,12 @@
-## react-native-img-with-placeholder
+# react-native-img-with-placeholder
 
 [![npm version](https://badge.fury.io/js/react-native-img-with-placeholder.svg)](https://badge.fury.io/js/react-native-img-with-placeholder)
+
+## 安装
+
+```
+npm install react-native-img-with-placeholder --save
+```
 
 ## 简介
 
