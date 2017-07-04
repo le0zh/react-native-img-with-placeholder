@@ -1,5 +1,7 @@
 # react-native-img-with-placeholder
 
+[![npm version](https://badge.fury.io/js/react-native-img-with-placeholder.svg)](https://badge.fury.io/js/react-native-img-with-placeholder)
+
 ## 简介
 
 `react-native-img-with-placeholder`控件封装了默认图片的功能。
