@@ -1,13 +1,13 @@
-#### react-native-img-with-placeholder
+# react-native-img-with-placeholder
 
-### 简介
+## 简介
 
 `react-native-img-with-placeholder`控件封装了默认图片的功能。
 
 当图片加载中或者加载失败(比如地址不正确)时，显示默认图片。
 当图片加载成功时，移除默认图片。
 
-### 属性
+## 属性
 
 | 属性名 | 类型 | 说明 |
 | -- | -- | -- |
