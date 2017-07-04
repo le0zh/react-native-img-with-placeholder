@@ -1,0 +1,24 @@
+{
+  "name": "react-native-img-with-placeholder",
+  "version": "1.0.0",
+  "description": "Image with placeholder for ReactNative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le0zh/react-native-img-with-placeholder.git"
+  },
+  "keywords": [
+    "image",
+    "placeholder",
+    "react-native"
+  ],
+  "author": "le0zh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le0zh/react-native-img-with-placeholder/issues"
+  },
+  "homepage": "https://github.com/le0zh/react-native-img-with-placeholder#readme"
+}
