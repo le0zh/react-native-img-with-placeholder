@@ -1,4 +1,4 @@
-# react-native-img-with-placeholder
+## react-native-img-with-placeholder
 
 [![npm version](https://badge.fury.io/js/react-native-img-with-placeholder.svg)](https://badge.fury.io/js/react-native-img-with-placeholder)
 
